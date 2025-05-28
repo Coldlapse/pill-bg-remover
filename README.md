@@ -29,6 +29,7 @@ U²-Net → ONNX 모델입니다.
 
 - 평가 지표: Intersection over Union (IoU), Dice coefficient
 - 본 프로젝트의 `evaluate_u2net.py` 로 성능 평가 진행
+- rembg의 순정 u2net 모델의 성능 지표 : IoU 0.3195, Dice 0.3724 (`evaluate_onnx.py`로 성능 평가 진행)
 - Iteration별 성능 지표 정리
 
 |  Iteration | IoU       | Dice      |
