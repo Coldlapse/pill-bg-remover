@@ -25,6 +25,18 @@ U²-Net → ONNX 모델입니다.
 
 ---
 
+## 실행 방법
+
+- [모델 파일](https://drive.google.com/file/d/1inuIfO1hHVhKxUwxeA0lSy1etcYV_osY/view?usp=sharing) 을 다운로드하여 `models` 폴더에 비치
+- main.py 실행
+
+---
+
+## 배경 제거 예시
+
+![배경 제거 예시](README_images/rembg-example.png)
+
+---
 ## 성능 평가
 
 - 평가 지표: Intersection over Union (IoU), Dice coefficient
@@ -78,4 +90,4 @@ U²-Net → ONNX 모델입니다.
 이 프로젝트는 **동국대학교 2025-1 종합설계1 02분반 5팀**의  
 **"알약 식별 프로그램 개발"** 과제의 일부로 수행되었습니다.
 
-> 통합된 전체 프로젝트는 [여기에서 확인할 수 있습니다](https://github.com/illujun/Capstone-Design/tree/front_end).
+> 통합된 전체 프로젝트는 [여기에서 확인할 수 있습니다](https://github.com/illujun/Capstone-Design).
