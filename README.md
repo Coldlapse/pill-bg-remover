@@ -34,7 +34,7 @@ U²-Net → ONNX 모델입니다.
 
 ## 배경 제거 예시
 
-![배경 제거 예시](README_images/rembg-example.png)
+![배경 제거 예시](README_Images/rembg-example.png)
 
 ---
 ## 성능 평가
