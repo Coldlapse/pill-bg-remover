@@ -7,7 +7,7 @@ U²-Net → ONNX 모델입니다.
 ---
 
 ## 사용한 데이터셋
-
+![배경 제거 예시](README_Images/dataset.png)
 - **출처**: [MEDISEG (Figshare)](https://figshare.com/articles/dataset/MEDISEG/28574786?file=52926545)  
 - **형태**: COCO-format annotations (`annotations.json`) 포함  
 - **변환 방식**: 본 프로젝트에 포함된 `coco2binary.py` 스크립트를 사용하여  
